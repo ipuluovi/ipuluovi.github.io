@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipuluovi.github.io/bTM/sitemap_index.txt
+Sitemap: https://ipuluovi.github.io/hul/sitemap_index.txt
+Sitemap: https://ipuluovi.github.io/lNx/sitemap_index.txt
+Sitemap: https://ipuluovi.github.io/rXk/sitemap_index.txt
